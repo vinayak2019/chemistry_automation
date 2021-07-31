@@ -1,0 +1,1 @@
+Generate a workflow with consisting of geometric optimization --> frequency --> tdhf for benzene molecule. If there is no freq_error for frequency calculation defuse the workflow on-the-fly. Then resume the workflow manually while changing the input to the tdhf from benzene to chlorobenzene.
