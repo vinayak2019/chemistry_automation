@@ -8,5 +8,6 @@ class MyFireTask(FiretaskBase):
     def run_task(self, fw_spec):
 
         # code here
+        pass
 
 
