@@ -1,0 +1,3 @@
+host: "mongodb+srv://vinayak:vinu123@mymongo.z1tjl.mongodb.net:27017/fireworks"
+logdir: null
+uri_mode: true
