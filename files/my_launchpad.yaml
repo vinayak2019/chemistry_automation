@@ -1,4 +1,4 @@
-host: "mongodb+srv://<username>:<password>@<mongo_server>:27017/<dbname>?reWrite=true"
+host: "mongodb+srv://<username>:<password>@<mongo_server>/<dbname>?reWrites=true"
 port: 27017
 logdir: null
 uri_mode: true
